@@ -1,0 +1,26 @@
+body {
+    background-color: #337277;
+}
+
+.container {
+    margin: 15px auto 15px auto;
+    background-color: #809E9B;
+    border-radius: 15px;
+    width: 75%;
+}
+
+
+p, h1 {
+    padding: 15px;
+    text-align: center;
+    font-family: "Open Sans Condensed";
+}
+
+.clickableThing {
+    text-align: center;
+    font-family: "Open Sans Condensed";
+    font-size: 14px;
+    padding: 15px;
+    margin: 15px, auto, 15px, auto;
+    borderRadius: 15px;
+}
